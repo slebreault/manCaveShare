@@ -416,7 +416,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 20px;
 }
 #menu-0 .navbar-toggler {
   color: #000000;
@@ -426,11 +426,11 @@ h6,
   color: #000000;
 }
 #menu-0 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -483,6 +483,9 @@ h6,
   font-size: 60px;
   text-align: center;
 }
+#content1-1h P {
+  font-size: 20px;
+}
 #features1-8 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -491,7 +494,7 @@ h6,
 }
 #menu-9 .navbar-caption {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 20px;
 }
 #menu-9 .navbar-toggler {
   color: #000000;
@@ -501,11 +504,11 @@ h6,
   color: #000000;
 }
 #menu-9 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -561,12 +564,13 @@ h6,
 #features1-f .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
+
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-g .navbar-caption {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 20px;
 }
 #menu-g .navbar-toggler {
   color: #000000;
@@ -576,11 +580,11 @@ h6,
   color: #000000;
 }
 #menu-g .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-g .dropdown-item,
 #menu-g .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-g .link:hover,
 #menu-g .dropdown-item:hover,
@@ -633,12 +637,19 @@ h6,
 #header3-k .mbr-section-subtitle {
   text-align: center;
 }
+#header3-k H3 {
+  font-size: 30px;
+}
+#features3-p H5 {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-l .navbar-caption {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 20px;
 }
 #menu-l .navbar-toggler {
   color: #000000;
@@ -648,11 +659,11 @@ h6,
   color: #000000;
 }
 #menu-l .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-l .dropdown-item,
 #menu-l .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-l .link:hover,
 #menu-l .dropdown-item:hover,
@@ -701,12 +712,19 @@ h6,
 #menu-l .close-icon::after {
   background-color: #000000;
 }
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c H3 {
+  font-size: 30px;
+}
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-u .navbar-caption {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 20px;
 }
 #menu-u .navbar-toggler {
   color: #000000;
@@ -716,11 +734,11 @@ h6,
   color: #000000;
 }
 #menu-u .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-u .dropdown-item,
 #menu-u .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-u .link:hover,
 #menu-u .dropdown-item:hover,
@@ -769,12 +787,12 @@ h6,
 #menu-u .close-icon::after {
   background-color: #000000;
 }
-#msg-box5-x H3 {
-  text-align: left;
-}
 #header3-z .mbr-section-title,
 #header3-z .mbr-section-subtitle {
   text-align: center;
+}
+#header3-z H3 {
+  font-size: 30px;
 }
 #header3-16 .mbr-section-title,
 #header3-16 .mbr-section-subtitle {
@@ -785,7 +803,7 @@ h6,
 }
 #menu-4 .navbar-caption {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 20px;
 }
 #menu-4 .navbar-toggler {
   color: #000000;
@@ -795,11 +813,11 @@ h6,
   color: #000000;
 }
 #menu-4 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-4 .dropdown-item,
 #menu-4 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-4 .link:hover,
 #menu-4 .dropdown-item:hover,
@@ -860,7 +878,7 @@ h6,
 }
 #menu-17 .navbar-caption {
   color: #ffffff;
-  font-size: 32px;
+  font-size: 20px;
 }
 #menu-17 .navbar-toggler {
   color: #000000;
@@ -870,11 +888,11 @@ h6,
   color: #000000;
 }
 #menu-17 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-17 .dropdown-item,
 #menu-17 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-17 .link:hover,
 #menu-17 .dropdown-item:hover,
