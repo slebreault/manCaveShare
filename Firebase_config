@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/3.8.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyClBEgw0xcXx41wr9o7Y1RgkLeu9d98nXY",
+    authDomain: "mancave-fb4d9.firebaseapp.com",
+    databaseURL: "https://mancave-fb4d9.firebaseio.com",
+    projectId: "mancave-fb4d9",
+    storageBucket: "mancave-fb4d9.appspot.com",
+    messagingSenderId: "961759768654"
+  };
+  firebase.initializeApp(config);
+</script>
