@@ -486,10 +486,6 @@ h6,
 #features1-8 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#header3-12 .mbr-section-title,
-#header3-12 .mbr-section-subtitle {
-  text-align: center;
-}
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -556,6 +552,74 @@ h6,
 }
 #menu-2 .close-icon::before,
 #menu-2 .close-icon::after {
+  background-color: #000000;
+}
+#menu-4 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-4 .navbar-caption {
+  color: #ffffff;
+  font-size: 32px;
+}
+#menu-4 .navbar-toggler {
+  color: #000000;
+}
+#menu-4 .link,
+#menu-4 .dropdown-item {
+  color: #000000;
+}
+#menu-4 .link {
+  font-size: 0.8rem;
+}
+#menu-4 .dropdown-item,
+#menu-4 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-4 .link:hover,
+#menu-4 .dropdown-item:hover,
+#menu-4 .link:focus,
+#menu-4 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-4 .link[aria-expanded="true"],
+#menu-4 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-4 .nav-dropdown-sm .link:focus,
+#menu-4 .nav-dropdown-sm .link:hover,
+#menu-4 .nav-dropdown-sm .dropdown-item:focus,
+#menu-4 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-4 .navbar,
+#menu-4 .nav-dropdown-sm,
+#menu-4 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-4 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-4 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-4 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-4 .bg-color.transparent.opened .link:hover,
+#menu-4 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-4 .link[aria-expanded="true"],
+#menu-4 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-4 .close-icon::before,
+#menu-4 .close-icon::after {
   background-color: #000000;
 }
 #menu-9 .hide-buttons .nav-btn {
@@ -840,90 +904,4 @@ h6,
 #menu-u .close-icon::before,
 #menu-u .close-icon::after {
   background-color: #000000;
-}
-#msg-box5-x H3 {
-  text-align: left;
-}
-#header3-z .mbr-section-title,
-#header3-z .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-16 .mbr-section-title,
-#header3-16 .mbr-section-subtitle {
-  text-align: center;
-}
-#menu-4 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-4 .navbar-caption {
-  color: #ffffff;
-  font-size: 32px;
-}
-#menu-4 .navbar-toggler {
-  color: #000000;
-}
-#menu-4 .link,
-#menu-4 .dropdown-item {
-  color: #000000;
-}
-#menu-4 .link {
-  font-size: 0.8rem;
-}
-#menu-4 .dropdown-item,
-#menu-4 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#menu-4 .link:hover,
-#menu-4 .dropdown-item:hover,
-#menu-4 .link:focus,
-#menu-4 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-4 .link[aria-expanded="true"],
-#menu-4 .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-4 .nav-dropdown-sm .link:focus,
-#menu-4 .nav-dropdown-sm .link:hover,
-#menu-4 .nav-dropdown-sm .dropdown-item:focus,
-#menu-4 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-4 .navbar,
-#menu-4 .nav-dropdown-sm,
-#menu-4 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-4 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-4 .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#menu-4 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-4 .bg-color.transparent.opened .link:hover,
-#menu-4 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-4 .link[aria-expanded="true"],
-#menu-4 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-4.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-4 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-4 .close-icon::before,
-#menu-4 .close-icon::after {
-  background-color: #000000;
-}
-#social-buttons2-15 .mbr-section-title,
-#social-buttons2-15 .btn-social {
-  color: #232323;
-}
-#form1-14 .form-control-label {
-  color: #232323;
 }
